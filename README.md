@@ -28,5 +28,5 @@
  ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.theaniket.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/aniket-kuila"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://www.theaniket.com/"><img alt="Website" src="https://img.shields.io/badge/website-theaniket.com-green"></a>
+<a href="https://www.linkedin.com/in/aniket-kuila"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-aniket-kuila-blue"></a>
